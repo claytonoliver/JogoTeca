@@ -1,0 +1,2 @@
+# JogoTeca
+ Flask Application
